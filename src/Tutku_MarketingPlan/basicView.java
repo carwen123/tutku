@@ -10,9 +10,13 @@ public class basicView {
                 " there are 9 kinds of tops for men total of 90 pieces ");
         System.out.println("\n\t4 different types of boxers at 30 each at 120 pieces");
 
-        System.out.println("Apply all to the women, 210 pieces for men and 210 pieces for women could be listed.");
+        System.out.println("\n\tApply all to the women, 210 pieces for men and 210 pieces for women could be listed.");
 
         String result = "";
+
+        result = "\n\ttotal of 420 pieces must be prepared for an abroad transaction, product details should be studied before listing";
+
+        System.err.println(result);
 
     }
 }
